@@ -1,0 +1,33 @@
+:root{
+    --main_color: rgb(122, 80, 33);
+}
+
+html {
+    background-color: rgb(195, 189, 181);
+    font-family:"Trebuchet MS", Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 1.30rem;
+    
+}
+
+
+h1 {
+    color: var(--main_color)
+}
+
+h3 {
+    color: rgb(99, 98, 97);
+}
+
+ a {
+    color: var(--main_color);
+    font-weight: bold;
+}
+
+.kaart li:nth-child(odd){
+    background-color: rgba(167, 146, 118, 0.212);
+}
+
+h2:last-child {
+    color: var(--main_color);
+}

@@ -6,11 +6,11 @@ Naam: kofi
 
 Welke elementen raakt elke selector? Eén zin per selector.
 
-- a. `header nav ul li a`: header
-- b. `article > p`: article
-- c. `.uren li:nth-child(3)`: uren
+- a. `header nav ul li a`: pakt het link in de lijst van nav
+- b. `article > p`: pakt alle eerste paragraafen dat het tegenkomt
+- c. `.uren li:nth-child(3)`: pakt het 2de in de lijst van uren
 - d. `h2 ~ p`: h2
-- e. `.rassen li:first-child`: het eerste paragraaf in li
+- e. `.rassen li:first-child`: het eerste in de lijst van rassen
 
 ## 3. Voorspel, dan kijk
 
