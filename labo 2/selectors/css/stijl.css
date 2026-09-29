@@ -4,10 +4,7 @@
    elementen raakt. Gebruik de declaratie die erbij staat, zodat je in de
    browser meteen ziet wat je raakte. Voeg niets toe aan index.html. */
 
-body {
-  font-family: Verdana, sans-serif;
-  line-height: 1.6;
-}
+
 
 /* 1. alle links in de navigatie -> color: crimson; */
 
@@ -15,11 +12,11 @@ nav a {
       color: crimson;
 }
 
+
 /* 2. alleen de paragrafen in de footer -> font-size: 0.875rem; */
 
-footer p{
-      font-size: 0.875m;
-      background-color: yellow;
+footer p {
+      font-size: 0.875rem;
 }
 
 
@@ -28,7 +25,7 @@ footer p{
       (outline tekent een kader rond precies het element dat je raakte; de
       property zelf komt in hoofdstuk 3) */
 
-ul.rassen > li {
+.rassen>li {
       outline: 2px solid crimson;
 }
 
@@ -36,34 +33,34 @@ ul.rassen > li {
 
 h2 + p {
       font-style: italic;
-      background-color: yellow;
 }
 
 /* 5. elk oneven item in de lijst met openingsuren -> background-color: #f1e9dc; */
 
 .uren li:nth-child(odd){
-      background-color: aqua;
+background-color: #f1e9dc;
 }
 
 /* 6. het laatste item in de lijst met openingsuren -> color: crimson; */
+
 .uren li:last-child{
       color: crimson;
-
 }
-
 
 /* 7. de slogan en de intro tegelijk, in één regel -> color: darkslateblue; */
 
-.slogan , intro  {
+.intro , .slogan {
       color: darkslateblue;
 }
 
 /* 8. elke link in main wanneer de muis erover gaat OF wanneer ze focus heeft
       -> background-color: yellow; */
 
-main a {
-      background-color:crimson
+main a:hover,
+main a:focus {
+      background-color: yellow;
 }
+
 
 /* ---- Lezen: welke elementen raken deze vijf selectors? Schrijf het antwoord
    in één zin per selector in README.md. Verander hier niets. ---- */

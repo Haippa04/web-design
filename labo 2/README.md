@@ -22,12 +22,12 @@ Vul de eerste twee kolommen in vóór je de pagina opent. Trede: herkomst, speci
 | 2 | blauw | | | |
 | 3 | rood  | | | |
 | 4 | groen | | | |
-| 5 |   | | | |
-| 6 |   | | | |
-| 7 |   | | | |
-| 8 |   | | | |
-| 9 |   | | | |
-| 10|   | | | |
+| 5 | blauw  | | | |
+| 6 | blauw  | | | |
+| 7 | geen  | | | |
+| 8 | blauw  | | | |
+| 9 | rood  | | | |
+| 10| groen  | | | |
 
 Bij welke vraag zat je fout, en wat was de reden? (Alles juist? Welke vraag duurde het langst, en waarom?)
 
