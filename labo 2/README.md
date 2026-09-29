@@ -18,10 +18,10 @@ Vul de eerste twee kolommen in vóór je de pagina opent. Trede: herkomst, speci
 
 | vraag | mijn voorspelling (kleur) | beslissende trede | uitkomst in de browser | juist? |
 |---|---|---|---|---|
-| 1 |   | groen| | |
-| 2 |   | blauw| | |
-| 3 |   | rood| | |
-| 4 |   | groen| | |
+| 1 | groen | | | |
+| 2 | blauw | | | |
+| 3 | rood  | | | |
+| 4 | groen | | | |
 | 5 |   | | | |
 | 6 |   | | | |
 | 7 |   | | | |
