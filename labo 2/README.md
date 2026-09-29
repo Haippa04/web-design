@@ -18,16 +18,16 @@ Vul de eerste twee kolommen in vóór je de pagina opent. Trede: herkomst, speci
 
 | vraag | mijn voorspelling (kleur) | beslissende trede | uitkomst in de browser | juist? |
 |---|---|---|---|---|
-| 1 | groen | lijn 17 zegt welke kleur | | |
-| 2 | blauw | lijn 26 krijgt voorang | | |
-| 3 | rood  | ".opvallend" wordt opgeroepen en niet "em" | | |
-| 4 | groen | door de > wordt alles aangepast inplaats van de link alleen| | |
-| 5 | blauw | blauw is met een ID en het krijgt voorang| | |
-| 6 | blauw | .V6-tekst is een eigen klas| | |
-| 7 | geen  | .V7 werd niet opgeroepen| | |
-| 8 | blauw | het kleur werd aangepast in de html, dus krijgt voorang| | |
-| 9 | rood  | heel h3 heeft een "!important" dus krijgt voorang| | |
-| 10| groen | bij blauw is er een fout dus gaat het groen pakken van de vorige kleur dat werd aangegeven| | |
+| 1 | groen | lijn 17 zegt welke kleur | groen |O|
+| 2 | blauw | lijn 26 krijgt voorang | blauw |O|
+| 3 | rood  | ".opvallend" wordt opgeroepen en niet "em" | rood |O|
+| 4 | groen | door de > wordt alles aangepast inplaats van de link alleen| rood |X|
+| 5 | blauw | blauw is met een ID en het krijgt voorang| blauw |O|
+| 6 | blauw | .V6-tekst is een eigen klas| rood en blauw |?|
+| 7 | geen  | .V7 werd niet opgeroepen| rood |X|
+| 8 | blauw | het kleur werd aangepast in de html, dus krijgt voorang| blauw |O|
+| 9 | rood  | heel h3 heeft een "!important" dus krijgt voorang| rood |O|
+| 10| groen | bij blauw is er een fout dus gaat het groen pakken van de vorige kleur dat werd aangegeven| groen |O|
 
 Bij welke vraag zat je fout, en wat was de reden? (Alles juist? Welke vraag duurde het langst, en waarom?)
 
